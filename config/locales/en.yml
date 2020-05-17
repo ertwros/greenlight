@@ -277,7 +277,7 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a simple virtual classroom for your golf training platform. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to bay.golfingstudio.com.
+    welcome: Welcome to The Golfing Studio.
     video: visit our website for more details
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of golfingstudio, but your database isn't compatible.
